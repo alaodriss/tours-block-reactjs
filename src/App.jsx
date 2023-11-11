@@ -41,7 +41,7 @@ const App = () => {
     return <main>
       <div className="title">
         <h2>no tours left</h2>
-        <button style={{marginTop:"2rem"}} className="btn" type="button" onClick={() => fetchTours() }>Refetch</button>
+        <button style={{marginTop:"2rem"}} className="btn" type="button" onClick={() => fetchTours() }>Refetchgit </button>
       </div>
     </main>
   }
